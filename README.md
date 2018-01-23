@@ -35,5 +35,6 @@ Seurat: dropseq Macosko et al paper pipeline, good enough for basic analysis, ht
 Shekhar et al paper pipelie (variation of Seurat), https://github.com/broadinstitute/BipolarCell2016  
 Kallisto: pseudo alignment, super fast, https://pachterlab.github.io/kallisto/  
 McCarroll Lab: dropseq data processing pipeline (Drop-seq_tools, use [STAR](https://github.com/alexdobin/STAR) and [Picard](http://broadinstitute.github.io/picard/)), wet lab protocol, http://mccarrolllab.com/dropseq/  
+Visualization of tSNE parameters: https://distill.pub/2016/misread-tsne/
 
 ## GEO datasets:
